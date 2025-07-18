@@ -17,9 +17,3 @@ Hi, It's Lucas Salomão Boschiroli.<br><br>I'm a passionate Software Engineering
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasboschiroli&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasboschiroli/lucasboschiroli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasboschiroli/lucasboschiroli/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasboschiroli/lucasboschiroli/output/github-contribution-grid-snake.svg">
-</picture>
