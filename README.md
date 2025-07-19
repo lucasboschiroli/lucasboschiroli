@@ -14,4 +14,4 @@ I'm a passionate Software Engineering student at PUCPR. I am dedicated constantl
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasboschiroli&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboschiroli&layout=compact&theme=radical"/>
+
