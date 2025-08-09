@@ -13,5 +13,7 @@ I'm a passionate Software Engineering student at PUCPR. I am dedicated constantl
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasboschiroli&show_icons=true&theme=radical"/>
+![](https://github-readme-stats.vercel.app/api?username=lucasboschiroli&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lucasboschiroli&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboschiroli&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
