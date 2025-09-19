@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Salomão Boschiroli.
+# Hi there, I'm Lucas Salomão Boschiroli
 Passionate Junior Software Engineer. I am dedicated constantly to improve my programming and technical skills. Being a Scout in my youth provided me a strong foundation in essential skills such as effective communication, teamwork, leadership, organization, and problem-solving skills that continue to benefit me to this day in both personal and professional settings.<br><br>I am currently focused on expanding my knowledge of programming languages such as Java, PHP, and C#, while also exploring areas like web development and game development. I am eager to contribute to challenging projects and continuously learn and grow within the tech industry.
 
 # Tech Stack:
